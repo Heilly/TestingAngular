@@ -17,3 +17,4 @@ Sirven para verificar el comportamiento y la funcionalidad de unidades de códig
 ## Pruebas
 `ng test`
 `ng test --code-coverage`
+# pruebasAngular
