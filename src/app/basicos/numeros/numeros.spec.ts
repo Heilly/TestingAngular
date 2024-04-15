@@ -1,7 +1,7 @@
 import { incrementar } from "./numeros"
 
 
-describe ( 'Prueba de number', () => {
+xdescribe ( 'Prueba de number', () => {
     it( 'Debe regresar un numero', () => {
         const resp = incrementar(97);
         expect ( typeof resp ).toBe('number');

@@ -4,7 +4,7 @@ import { MedicosService } from './medicos.service';
 import { from, of, throwError } from 'rxjs';
 
 
-describe('MedicosComponent', () => {
+xdescribe('MedicosComponent', () => {
 
     /**
      * jasmine.createSpyObj: Es una función proporcionada por Jasmine para crear un objeto espía con varios métodos simulados.

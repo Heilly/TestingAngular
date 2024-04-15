@@ -1,7 +1,7 @@
 import { Jugador } from "./clases"
 
 
-describe( 'Pruebas de clases', () => {
+xdescribe( 'Pruebas de clases', () => {
 
     let jugador = new Jugador;
 

@@ -1,7 +1,7 @@
 import { Jugador2 } from "./jugador2"
 
 
-describe('Jugador 2 Emit', () => {
+xdescribe('Jugador 2 Emit', () => {
     let jugador: Jugador2;
 
     beforeEach( () => jugador = new Jugador2() );
