@@ -5,7 +5,7 @@ describe( 'Pruebas de clases', () => {
 
     let jugador = new Jugador;
 
-    //beforeAll(); se ejecuta antes de iniciar las pruebas. Se ejecuta una vez.
+    //beforeAll(); se ejecuta antes de iniciar todas las pruebas. Se ejecuta una vez.
     //beforeEach(); se ejecuta antes de cada prueba
     //afterAll();se ejecuta despues de cada prueba. Se ejecuta una vez.
     //afterEach(); se ejecuta cuando todas las pruebas finalizan
